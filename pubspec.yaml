@@ -14,7 +14,7 @@ dependencies:
   diffutil_dart: ">=2.0.0"
   flutter:
     sdk: flutter
-  worker_manager: ">=4.0.2"
+  worker_manager: "4.0.2"
 
 dev_dependencies:
   flutter_test:
